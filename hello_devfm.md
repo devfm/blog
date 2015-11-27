@@ -46,6 +46,6 @@ These are just some of the issues devfm should address. It is not close to be th
 
 One more thing
 -------------------
-One very important aspect of the devfm is it is not a group people doing manual work no one wants to do. It is about building great tools, systems, and optimizing process to empower everyone to be more efficient. 
+One very important aspect of the devfm is that it is not a group people doing manual work, which no one wants to do. It is about building great tools, systems, and optimizing process to empower everyone to be more efficient. 
 
 > Written with [StackEdit](https://stackedit.io/).
